@@ -105,11 +105,6 @@ function runApp(){
     
 }
 
-// document.body.onload = () => {
-//     $('.app .app-video').attributes["autoplay"] = "autoplay"; 
-//     console.log('abc');
-// }
-
 runApp()
 
 
